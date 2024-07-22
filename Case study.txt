@@ -28,7 +28,7 @@ A month later, PwC announced a global partnership with Harvey giving access to a
 (Source: https://www.lawnext.com/2024/05/harvey-ai-to-move-out-of-early-access-phase-release-more-affordable-versions-of-its-custom-ai-models.html)
 
 ##Recommendations
-One service that I would advise to offer in the stack is Predictive analytics on case/settlement outcomes. With the write prompts and data inputs you could get really niche down to the demographic of the city where litigation is, the judge on the bench, jury demographic, etc. 
+One service that I would advise to offer in the stack is Predictive analytics on case/settlement outcomes. With the right prompts and data inputs you could get really niche down to the demographic of the city where litigation is, the judge on the bench, jury demographic, etc. 
 
 This would be a good service to offer just for reference and to assist the the firm on strategy based on what the predictive outcome was. This service to my knowledge would use more data analytics of public record as its main technology utilization. 
 
